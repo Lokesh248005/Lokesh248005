@@ -1,14 +1,13 @@
  # Hi there 👋, I'm Lokesh Balhara
 
-I'm a passionate Computer Science student and an aspiring Software Developer from India. I enjoy solving Data Structures & Algorithms problems and building projects using C++ and web technologies. I'm always eager to learn new technologies and improve my problem-solving skills.
+I'm a passionate Computer Science student at VIT Bhopal and an aspiring Software Developer from India. I enjoy solving Data Structures & Algorithms problems and building projects using C++ and web technologies. I'm always eager to learn new technologies and improve my problem-solving skills.
 
 ### 🚀 About Me
 
 * 💻 Interested in Software Development and Problem Solving
 * 🌱 Currently learning Data Structures & Algorithms and Full Stack Development
 * 🧩 Regularly practicing coding challenges
-* 🤝 Open to collaborating on open-source projects
-* 📚 Always learning and exploring new technologies
+* 🏀 BasketBall|🌴 Travelling |🎮 Gaming
 
 ### 🛠️ Tech Stack
 
