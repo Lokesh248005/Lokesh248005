@@ -1,4 +1,4 @@
- Hi there 👋, I'm Lokesh Balhara
+ # Hi there 👋, I'm Lokesh Balhara
 
 I'm a passionate Computer Science student and an aspiring Software Developer from India. I enjoy solving Data Structures & Algorithms problems and building projects using C++ and web technologies. I'm always eager to learn new technologies and improve my problem-solving skills.
 
