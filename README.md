@@ -12,7 +12,7 @@ I'm a passionate Computer Science student and an aspiring Software Developer fro
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C++, C, JavaScript
+* **Languages:** Python, C++, Java, JavaScript
 * **Web:** HTML, CSS, JavaScript
 * **Tools:** Git, GitHub, VS Code
 
