@@ -1,16 +1,21 @@
-## Hi there I am Lokesh👋
+# Hi there 👋, I'm Lokesh Balhara
 
-<!--
-**Lokesh248005/Lokesh248005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student and an aspiring Software Developer from India. I enjoy solving Data Structures & Algorithms problems and building projects using C++ and web technologies. I'm always eager to learn new technologies and improve my problem-solving skills.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Interested in Software Development and Problem Solving
+* 🌱 Currently learning Data Structures & Algorithms and Full Stack Development
+* 🧩 Regularly practicing coding challenges
+* 🤝 Open to collaborating on open-source projects
+* 📚 Always learning and exploring new technologies
+
+### 🛠️ Tech Stack
+
+* **Languages:** C++, C, JavaScript
+* **Web:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect with Me
+
+Feel free to explore my repositories and connect with me. I'm always excited to learn, collaborate, and build impactful projects.
